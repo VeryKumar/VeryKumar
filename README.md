@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @VeryKumar
 - 👀 I’m interested in creating useful apps and helping developers enjoy their work
-- 🌱 I’m currently learning Langchain 🦜⛓️
+- 🌱 I’m currently using Langchain + Building AI applications 🦜⛓️
 - 💞️ I’m open to contract work relating to LLMs
-- 📫 How to reach me https://www.linkedin.com/in/varun-kumar-886895b8/
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/varun-kumar-swe/)
 
 <!---
 VeryKumar/VeryKumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
